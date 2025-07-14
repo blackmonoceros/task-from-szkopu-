@@ -33,19 +33,34 @@ For the input data:
 
 8
 thank you shallow 1
+
 thank you deep 15
+
 thank you shallow 2
+
 please shallow
+
 thank you shallow 3
+
 please deep
+
 please shallow
+
 please shallow
 
 
-the correct answer is:
+
+## the correct answer is:
+
+
 
 2
+
 15
+
 3
+
 1
+
+
 undefined
